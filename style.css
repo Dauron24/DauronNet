@@ -1,11 +1,21 @@
-/*
-Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
-Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
-*/
-/* 
-    Created on : 17.01.2026, 20:28:45
-    Author     : david
-*/
+/**
+ * Theme Name:        Fabled Sunset
+ * Theme URI:         https://example.com/fabled-sunset
+ * Description:       Custom theme description...
+ * Version:           1.0.0
+ * Author:            Your Name
+ * Author URI:        https://example.com
+ * Tags:              block-patterns, full-site-editing
+ * Text Domain:       fabled-sunset
+ * Domain Path:       /assets/lang
+ * Tested up to:      6.4
+ * Requires at least: 6.2
+ * Requires PHP:      7.4
+ * License:           GNU General Public License v2.0 or later
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ */
+
+
 .intro {
   background-color: yellow;
   text-align-all: center;
